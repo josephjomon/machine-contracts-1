@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity ^0.4.24; //solidity code to form machine contract
 
 contract Machine{
 
